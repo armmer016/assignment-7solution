@@ -1,3 +1,5 @@
 ## Example Result of list fibonacci
 
-![](result.gif)
+### gif may take sometime to load.
+
+<img src="result.gif" width="250"/>
